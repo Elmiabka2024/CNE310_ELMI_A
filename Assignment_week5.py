@@ -5,4 +5,4 @@ school = 'Renton Technical College'
 program = 'BAS Computer Networking'
 course = 'Program Management in Networking'
 Professor = 'Zak'
-print(f' I am student at {school}, studying {program}, {course} by professor {Professor}')
+print(f' I am student at {school}, studying {program}, {course} Instructed by professor {Professor}')
